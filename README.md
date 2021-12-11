@@ -1,6 +1,6 @@
 # Introduction
 
-Just To Entice You, check [here](https://kopokopo.kashhela.com/task1)  to see the project. 
+Just To Entice You, check [here](https://kopokopo.kashhela.com/task1) https://kopokopo.kashhela.com/task1  to see the project. 
 On my shared server, use transaction_data_1.csv, transaction_data_2.csv or transaction_data_3.csv if you selected
 "I know my File Name" Option 
 
