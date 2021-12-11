@@ -49,7 +49,7 @@ If things are okay, The project will run.
 
 
 # where do I add CSV files?
-Navigate to public/csv folder and add if you dont want to use import module.
+Navigate to public/csv folder and add if you dont want to use import csv.
 
 # Potential error
 1. Invalid DB credentials may make the project not to work. Add them accordingly to .env and it will work like a charm
