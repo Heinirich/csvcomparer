@@ -6,6 +6,8 @@ Have a look at the screenshots folder.
 Have a look at the main code engine at Core/App/Http/Controllers/ImportController. All Codes as per instructions are listed. 
 
 ![alt text](https://raw.githubusercontent.com/Heinirich/csvcomparer/master/screenshots/screenshot1.png)
+![alt text](https://raw.githubusercontent.com/Heinirich/csvcomparer/master/screenshots/screenshot2.png)
+![alt text](https://raw.githubusercontent.com/Heinirich/csvcomparer/master/screenshots/screenshot3.png)
 
 On my shared server, use transaction_data_1.csv, transaction_data_2.csv or transaction_data_3.csv if you selected
 "I know my File Name" Option 
