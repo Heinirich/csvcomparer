@@ -29,6 +29,7 @@ DB_PASSWORD=Darkweb360@'
 
 Change you DB Pass, Username and database name.
 
+Next, Navigate to Core/ and run composer install
 
 # Why database?
 The data is saved temporarily from csv as saving huge chunks of data to session makes the project lag.
